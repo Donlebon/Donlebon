@@ -15,17 +15,6 @@
 </ul>
 
 <p align = "left">
-<strong> Zoo Database </strong>  - https://donlebon.github.io/Zoo_Database/
-
-</p>
-
-<ul> 
-<li>This website utilizes the Zoo API and outputs the animal's information in a card layout theme. Learn some fun facts about some animals! </li>
-<li>Made with HTML, CSS/SCSS, Javascript, React </li>
-</ul>
-
-
-<p align = "left">
 <strong> Dota 2 Hero Hangman Game </strong> - 
 https://donlebon.github.io/Dota-2-Alias-Guess/
 </p>
@@ -34,12 +23,6 @@ https://donlebon.github.io/Dota-2-Alias-Guess/
 <li>I'm a big fan of Dota 2 and wanted to create a trivia game! Test your knowledge of the heroes alternate names! </li>
 <li>Made with HTML, CSS/SCSS, Javascript </li>
 </ul>
-
-<hr>
-
-<p align = "center">
-<strong> Other previous projects! </strong>
-</p>
 
 <p align = "left">
 <strong> Movie Watchlist </strong> - 
@@ -51,6 +34,12 @@ https://donlebon.github.io/Movie-Watchlist/
 <li>Search for any movie and add it to your watchlist!</li>
 <li>Made with HTML, CSS/SCSS, Javascript </li>
 </ul>
+
+<hr>
+
+<p align = "center">
+<strong> Other previous projects! </strong>
+</p>
 
 <p align = "left">
 <strong> Color Scheme Generator </strong> - 
