@@ -6,7 +6,7 @@
 <hr>
 
 <p align = "left"> 
-<strong> Item Tracker </strong> - https://donlebon.github.io/Wendideye/
+<strong> Item Tracker </strong> - https://github.com/Donlebon/Wendideye
 </p>
 
 <ul> 
@@ -16,7 +16,7 @@
 
 <p align = "left">
 <strong> Dota 2 Hero Hangman Game </strong> - 
-https://donlebon.github.io/Dota-2-Alias-Guess/
+https://github.com/Donlebon/Dota-2-Alias-Guess
 </p>
 
 <ul> 
@@ -26,7 +26,7 @@ https://donlebon.github.io/Dota-2-Alias-Guess/
 
 <p align = "left">
 <strong> Movie Watchlist </strong> - 
-https://donlebon.github.io/Movie-Watchlist/
+https://github.com/Donlebon/Movie-Watchlist
 </p>
 
 
@@ -43,7 +43,7 @@ https://donlebon.github.io/Movie-Watchlist/
 
 <p align = "left">
 <strong> Color Scheme Generator </strong> - 
-https://donlebon.github.io/Color-Scheme-Generator/
+https://github.com/Donlebon/Color-Scheme-Generator
 </p>
 
 
@@ -54,7 +54,7 @@ https://donlebon.github.io/Color-Scheme-Generator/
 
 <p align = "left">
 <strong> Weather API Project </strong> - 
-https://donlebon.github.io/Weather-Api-Project/
+https://github.com/Donlebon/Weather-Api-Project
 </p>
 
 
