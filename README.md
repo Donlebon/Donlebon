@@ -52,18 +52,6 @@ https://github.com/Donlebon/Color-Scheme-Generator
 <li>Made with HTML, CSS/SCSS, Javascript </li>
 </ul>
 
-<p align = "left">
-<strong> Weather API Project </strong> - 
-https://github.com/Donlebon/Weather-Api-Project
-</p>
-
-
-<ul> 
-<li>My first project working with an API. Check the weather of any city! </li>
-<li>Made with HTML, CSS/SCSS, Javascript </li>
-</ul>
-
-
 <h3 align="left">Languages and Tools:</h3>
 
 
