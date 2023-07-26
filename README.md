@@ -8,7 +8,7 @@ possible product for the company and their users.
 <h3 align="left">Technical Skills</h3>
 
 <ul>
-<li>Languages</li>
+<strong><li>Languages</li></strong>
 </ul>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -20,7 +20,7 @@ possible product for the company and their users.
 
 
 <ul>
-<li>Frameworks and Libraries</li>
+<strong><li>Frameworks and Libraries</li></strong>
 </ul>
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -36,7 +36,7 @@ possible product for the company and their users.
 
 
 <ul>
-<li>Tools</li>
+<strong><li>Tools</li></strong>
 </ul>
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
