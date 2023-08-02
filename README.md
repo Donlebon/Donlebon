@@ -1,6 +1,7 @@
 <h1 align="center">Welcome, I'm Don! 🤙 </h1>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/donddo/)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.donddo.com)
 
 I'm an experienced engineer that enjoys developing applications. I highly value collaboration and aim to create the best 
 possible product for the company and their users. 
